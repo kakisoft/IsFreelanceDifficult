@@ -2,6 +2,7 @@
 
 【スライド】フリーランスって難しいの？  
 https://gitpitch.com/kakisoft/IsFreelanceDifficult/    
+　    
 フリーランスをやってみて、その過程で学んだ、フリーランスの実態をスライドにしました。
 　    
 　    
