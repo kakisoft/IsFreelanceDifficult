@@ -6,22 +6,48 @@
 　  
 　　　　id:kakisoft
 ---
-### 自己紹介  
-　  
-**名前**：垣花　暁（かきのはな　さとる）    
-　  
-**出身**：沖縄県  
-　  
-**仕事**：物流系エンジニア（フリーランス）  
-.NET/Java/Oracleがメイン。  
-物流業界向けの言語や機器が使えます。  
-　  
-**趣味**：リアル脱出ゲーム
+### 自己紹介
+
+<br>
+<div class="left">
+![alt](assets/image/kakisoft01.png)
+</div>
+<div class="right">
+  <table style="white-space: nowrap;border-style: none;">
+    <tr>
+      <td>@size[0.8em](**名前**)</td>
+      <td>
+        kakisoft
+      </td>
+    </tr>
+    <tr>
+      <td>@size[0.8em](**出身**)</td>
+      <td>沖縄県</td>
+    </tr>
+    <tr>
+      <td>@size[0.8em](**仕事**)</td>
+      <td>物流系エンジニア @size[0.8em](（フリーランス）)</td>
+    </tr>
+    <tr>
+      <td>@size[0.8em](**使う**)</td>
+      <td>.NET/Java/PHP/RDB全般</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>物流業界向けの言語や機器</td>
+    </tr>
+    <tr>
+      <td>@size[0.8em](**趣味**)</td>
+      <td>リアル脱出ゲーム</td>
+    </tr>
+  </table>
+</div>
 ---
 2018年1月より、フリーランスになりました。
 ---
 その過程で学んだ、今までよく分からなった  
-フリーランスの実態（のごく一部）をご紹介したいと思います。
+フリーランスの実態（のごく一部）を  
+ご紹介したいと思います。
 　  
 　  
 ※あくまで、スライド主が体験した範囲の話です

@@ -1,5 +1,5 @@
 #Theme Setting(black, moon, night, beige, sky, white が設定可)
-theme : white
+theme : moon
 
 #Background Setting
 #background : assets/bg.png
@@ -21,7 +21,7 @@ footnote :  "© 2018 kakisoft"
 mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-transition : convex
+transition : slide
 
 #Vertical Center Setting（falseで上詰め）
 #vertical-center : false
