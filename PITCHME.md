@@ -10,7 +10,7 @@
 
 <br>
 <div class="left">
-<img border="0" src="assets/image/kakisoft01.png" width="128" height="128" alt="kakisoft01">
+![alt](assets/image/kakisoft01.png)
 </div>
 <div class="right">
   <table style="white-space: nowrap;border-style: none;">
