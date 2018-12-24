@@ -19,6 +19,7 @@
       <td>@size[0.8em](**名前**)</td>
       <td>
         kakisoft
+        　@fa[twitter fa-0.3x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
       </td>
     </tr>
     <tr>
