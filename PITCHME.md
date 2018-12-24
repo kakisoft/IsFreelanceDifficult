@@ -1,4 +1,4 @@
-@size[0.8em]([フリーランスAdvent Calendar 25日目](https://adventar.org/calendars/3273)))  
+[フリーランスAdvent Calendar 25日目](https://adventar.org/calendars/3273)  
 ### フリーランスって難しいの？
 
 
